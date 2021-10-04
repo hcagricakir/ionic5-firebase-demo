@@ -1,4 +1,4 @@
-##ionic5+firebase authenticator
+## ionic5+firebase authenticator
 
 ```
 npm install
