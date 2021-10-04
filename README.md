@@ -1,7 +1,7 @@
 ##ionic5+firebase authenticator
 
 ```
-npm intall
+npm install
 ```
 ```
 ionic serve -l
